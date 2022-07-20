@@ -11,3 +11,7 @@ Transformer model is providing a bit better result when compared to Google Trans
 (Telugu to English). The training time, the model took to train the dataset is almost 12.5 hours. 
 And the accuracy of the translation is quite good. However, there are few drawbacks in the 
 translation, this can be eradicated by researching further.
+
+
+
+The Entire Documentation for this project can be found in https://www.researchgate.net/publication/362105712_Language_Translation_using_Machine_Learning
